@@ -9,7 +9,7 @@ This is a personal site based on Django and Vue.js
     - [ ] Sales Statistics
 - User modules
     - [ ] Personal Profile Management
-    - [ ] Service CRUD 
+    - [ ] Service CRUD
     - [ ] Balancing Management
  
 ## Environment Requirements 
