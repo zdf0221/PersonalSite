@@ -11,3 +11,7 @@ def index(request):
 
 def tos(request):
     return render_to_response('SS/tos.html')
+
+
+def order(request):
+    return render_to_response('SS/index.html')
